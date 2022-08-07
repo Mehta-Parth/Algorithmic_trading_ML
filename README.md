@@ -5,6 +5,6 @@ Firstly load the sp500_data.csv file in your notebook, I have done the project i
 Then install required libraries by running: pip install yfinance.
 You are good to go, just run the model.
 The model also gives the liquidity, leverage, profitability and efficiency of the company. 
-To further make it more efficient, you can set limit in these values and try playing around.
+To further make it more efficient, you can set limit in these values and try playing around. Also after data cleaning, you can use it to build and back test your own strategies.
 The code is there in both .py and .ipynb formats
 Cheers!
